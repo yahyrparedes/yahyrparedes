@@ -27,7 +27,7 @@
 <h2 align="center">Problem Solver</h2>
 
 <p align="center">
-  <em>I turn uncertainty into working systems and pressure into reliable deliveries.</em>
+  <em>+9 years in software development · mobile and backend focus · migration that scaled 100X · app on Play Store with PCI payments.</em>
 </p>
 
 <table>
@@ -37,7 +37,7 @@
             I'm a results-driven developer who works effectively in complex environments: ambiguous requirements, legacy systems, and tight deadlines.
         </p>
         <p>
-        As a T-shaped Developer, I combine deep technical expertise with the ability to adapt quickly across stacks. I focus on understanding the problem, making sound decisions, and executing with precision.
+        I combine deep technical expertise with the ability to adapt quickly across stacks. I focus on understanding the problem, making sound decisions, and executing with precision.
         </p>
         <p>
             I've built and evolved backend systems, mobile applications, and cloud infrastructure — prioritizing performance, maintainability, and scalability. I work comfortably on greenfield projects and on existing codebases alike, always aligned with business goals.
@@ -119,6 +119,42 @@
 
 ---
 
+<h2 align="center">📂 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">☕ Starbucks Rewards Perú</h3>
+      <p align="center"><sub><b>DELOSI · Jan 2024 – Present</b></sub></p>
+      <p align="left">
+        <b>Role:</b> Android Engineer · Backend Engineer<br/>
+        <b>Stack:</b> Kotlin Multiplatform · Jetpack Compose · SwiftUI · Ktor · Clean Architecture · AWS (Cognito, Lambda, CDK)<br/>
+        <b>Result:</b> App published on Google Play Store with PCI integration for Niubiz payments. Hardening with R8 + DexGuard + Shape F5.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🛡️ Vehicle Quoter 100X</h3>
+      <p align="center"><sub><b>Interseguro · Mar 2023 – Dec 2024</b></sub></p>
+      <p align="left">
+        <b>Role:</b> Backend Engineer · Squad Nuevas Iniciativas / Vehicular<br/>
+        <b>Stack:</b> Go (Fiber, GORM, Viper) · Java Spring Suite · GCP Cloud Run · OAuth2 + Keycloak<br/>
+        <b>Result:</b> Java → Go migration. The system went on to absorb 100X more volume than the rest of the company's products.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚨 Workplace Safety</h3>
+      <p align="center"><sub><b>Kwema Inc · Aug 2021 – Feb 2024</b></sub></p>
+      <p align="left">
+        <b>Role:</b> Software Engineer Android & Backend<br/>
+        <b>Stack:</b> Kotlin · Jetpack Compose · Python Django · Firebase · AWS IoT · BLE Beacons<br/>
+        <b>Result:</b> Complete rewrite of the app with panic wearables for real-time alerts.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🛤️ My Journey</h2>
 
 <table>
@@ -155,42 +191,6 @@
       <p align="left"><sub>
         <b>What I learned:</b> The swiss-army-knife developer. When you ship the whole project, you learn how each layer affects the others.
       </sub></p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📂 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">☕ Starbucks Rewards Perú</h3>
-      <p align="center"><sub><b>DELOSI · Jan 2024 – Present</b></sub></p>
-      <p align="left">
-        <b>Role:</b> Android Engineer · Backend Engineer<br/>
-        <b>Stack:</b> Kotlin Multiplatform · Jetpack Compose · SwiftUI · Ktor · Clean Architecture · AWS (Cognito, Lambda, CDK)<br/>
-        <b>Result:</b> App published on Google Play Store with PCI integration for Niubiz payments. Hardening with R8 + DexGuard + Shape F5.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🛡️ Vehicle Quoter 100X</h3>
-      <p align="center"><sub><b>Interseguro · Mar 2023 – Dec 2024</b></sub></p>
-      <p align="left">
-        <b>Role:</b> Backend Engineer · Squad Nuevas Iniciativas / Vehicular<br/>
-        <b>Stack:</b> Go (Fiber, GORM, Viper) · Java Spring Suite · GCP Cloud Run · OAuth2 + Keycloak<br/>
-        <b>Result:</b> Java → Go migration. The system went on to absorb 100X more volume than the rest of the company's products.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🚨 Workplace Safety</h3>
-      <p align="center"><sub><b>Kwema Inc · Aug 2021 – Feb 2024</b></sub></p>
-      <p align="left">
-        <b>Role:</b> Software Engineer Android & Backend<br/>
-        <b>Stack:</b> Kotlin · Jetpack Compose · Python Django · Firebase · AWS IoT · BLE Beacons<br/>
-        <b>Result:</b> Complete rewrite of the app with panic wearables for real-time alerts.
-      </p>
     </td>
   </tr>
 </table>
