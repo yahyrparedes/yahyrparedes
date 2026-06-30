@@ -14,10 +14,10 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_ES-Espa%C3%B1ol-1a73e8?style=for-the-badge&logoColor=white&labelColor=1a73e8" />
-    <a href="https://github.com/yahyrparedes/yahyrparedes/blob/main/README.en.md">
-      <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_EN-English-lightgrey?style=for-the-badge&logoColor=white" />
+    <a href="https://github.com/yahyrparedes/yahyrparedes/blob/main/README.md">
+      <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_ES-Espa%C3%B1ol-lightgrey?style=for-the-badge&logoColor=white" />
     </a>
+    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_EN-English-1a73e8?style=for-the-badge&logoColor=white&labelColor=1a73e8" />
   </p>
 
 </div>
@@ -27,23 +27,23 @@
 <h2 align="center">Problem Solver</h2>
 
 <p align="center">
-  <em>Convierto incertidumbre en sistemas funcionales y presión en entregas confiables.</em>
+  <em>I turn uncertainty into working systems and pressure into reliable deliveries.</em>
 </p>
 
 <table>
   <tr>
     <td width="65%" valign="top">
         <p>
-            Soy un desarrollador orientado a resultados que trabaja con eficacia en entornos complejos: requisitos ambiguos, sistemas heredados y plazos exigentes.
+            I'm a results-driven developer who works effectively in complex environments: ambiguous requirements, legacy systems, and tight deadlines.
         </p>
         <p>
-        Como T-shaped Developer, combino profundidad técnica con la capacidad de adaptarme rápidamente a distintos stacks. Me enfoco en entender el problema, tomar decisiones sólidas y ejecutar con precisión.
+        As a T-shaped Developer, I combine deep technical expertise with the ability to adapt quickly across stacks. I focus on understanding the problem, making sound decisions, and executing with precision.
         </p>
         <p>
-            He trabajado construyendo y evolucionando sistemas backend, aplicaciones móviles e infraestructura cloud, priorizando rendimiento, mantenibilidad y escalabilidad. Me adapto tanto a proyectos desde cero como a código existente, siempre alineado a objetivos de negocio.
+            I've built and evolved backend systems, mobile applications, and cloud infrastructure — prioritizing performance, maintainability, and scalability. I work comfortably on greenfield projects and on existing codebases alike, always aligned with business goals.
         </p>
         <p>
-            Mi enfoque es simple: entregar software robusto, que funcione bien hoy y siga funcionando mañana.
+            My approach is simple: ship robust software that works well today and keeps working tomorrow.
         </p>
     </td>
     <td width="35%" align="center">
@@ -63,8 +63,8 @@
     <td width="33%" valign="top" align="center">
       <h3>🔧 Backend</h3>
       <p align="left">
-        APIs robustas y microservicios escalables.
-        Diseño sistemas que manejan alto volumen y se mantienen bajo presión.
+        Robust APIs and scalable microservices.
+        I design systems that handle high volume and stay reliable under pressure.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -74,15 +74,15 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       </div>
       <p align="left"><sub>
-        <b>Logros:</b> Migré el cotizador vehicular de Interseguro de Java a Go → <b>100X más volumen</b>. Spring Boot + JPA en microservicios contenerizados con Docker.
+        <b>Highlight:</b> Migrated Interseguro's vehicle quoter from Java to Go → <b>100X more volume</b>. Spring Boot + JPA in containerized microservices with Docker.
       </sub></p>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>📱 Mobile · <i>Android-first</i></h3>
       <p align="left">
-        <b>Android es mi fuerte</b> (+9 años, nativo y Kotlin Multiplatform).
-        Tengo base en iOS/SwiftUI para coordinar en proyectos cross-platform,
-        pero mi perfil principal es Android de extremo a extremo.
+        <b>Android is my strength</b> (+9 years, native and Kotlin Multiplatform).
+        I have a working base in iOS/SwiftUI to coordinate on cross-platform projects,
+        but my main profile is end-to-end Android.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -94,14 +94,14 @@
         <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
       </div>
       <p align="left"><sub>
-        <b>Logros:</b> Entregué la app <b>Starbucks Rewards Perú</b> end-to-end (publicada en Play Store) con KMP + Compose + Swift UI.
+        <b>Highlight:</b> Shipped the <b>Starbucks Rewards Perú</b> app end-to-end (published on Play Store) with KMP + Compose + Swift UI.
       </sub></p>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>☁️ Cloud & Infra</h3>
       <p align="left">
-        Orquesto, despliego y opero sitios web e intranets en producción.
-        AWS como principal, GCP como secundario, nociones de Azure.
+        I orchestrate, deploy and operate websites and intranets in production.
+        AWS as primary, GCP as secondary, working knowledge of Azure.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -111,7 +111,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </div>
       <p align="left"><sub>
-        <b>Logros:</b> Configuré AWS desde cero (Lambda + Cognito + CDK) para Starbucks. SES + DNS (DKIM/SPF/DMARC) en Calzado Atlas con 0 baneos.
+        <b>Highlight:</b> Built AWS from scratch (Lambda + Cognito + CDK) for Starbucks. SES + DNS (DKIM/SPF/DMARC) at Calzado Atlas with 0 bans.
       </sub></p>
     </td>
   </tr>
@@ -124,36 +124,36 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🚀 Etapa 1 — El Todista</h3>
-      <p align="center"><sub><b>Consultoras & Startups · hasta 2023</b></sub></p>
+      <h3 align="center">🚀 Stage 1 — The All-Rounder</h3>
+      <p align="center"><sub><b>Consultancies & Startups · until 2023</b></sub></p>
       <p align="left">
-        Hago <b>todo</b>: captación de requerimientos, definición, desarrollo y puesta en producción.
-        En consultoras y startups el dev es el equipo completo: product owner, dev, devops y soporte.
+        I did <b>everything</b>: requirements gathering, definition, development and production rollout.
+        At consultancies and startups the dev is the whole team: product owner, dev, devops, and support.
       </p>
       <p align="left"><sub>
-        <b>Aprendizaje:</b> Ownership extremo. Si no funciona, no es problema de otro equipo. Velocidad de ejecución porque no hay capas.
+        <b>What I learned:</b> Extreme ownership. If it doesn't work, it's not another team's problem. Execution speed because there are no layers.
       </sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🏢 Etapa 2 — El Especialista</h3>
-      <p align="center"><sub><b>Interseguro · Mar 2023 – Dic 2024</b></sub></p>
+      <h3 align="center">🏢 Stage 2 — The Specialist</h3>
+      <p align="center"><sub><b>Interseguro · Mar 2023 – Dec 2024</b></sub></p>
       <p align="left">
-        Sector corporativo: <b>cada dev cumple un rol y lo hace a la perfección</b>.
-        Me hice experto en mi área (backend Go + Spring Cloud) <b>conociendo las demás áreas</b> para coordinar efectivamente.
+        Corporate sector: <b>each dev masters one role and does it perfectly</b>.
+        I became an expert in my area (backend Go + Spring Cloud) <b>while understanding the other areas</b> to coordinate effectively.
       </p>
       <p align="left"><sub>
-        <b>Aprendizaje:</b> Profundidad técnica + coordinación cross-squad. Sistemas críticos en producción con datos sensibles.
+        <b>What I learned:</b> Technical depth + cross-squad coordination. Mission-critical systems in production with sensitive data.
       </sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🛠️ Etapa 3 — Full-Stack Extreme</h3>
-      <p align="center"><sub><b>Freelance fines de semana · actual</b></sub></p>
+      <h3 align="center">🛠️ Stage 3 — Full-Stack Extreme</h3>
+      <p align="center"><sub><b>Freelance weekends · current</b></sub></p>
       <p align="left">
-        Proyectos completos: <b>front, backend, app e infra</b>.
-        Email, DNS, Cloudflare, certificados, deploy, monitorización — <b>un dev hace todo</b>.
+        Full projects: <b>frontend, backend, app and infra</b>.
+        Email, DNS, Cloudflare, certificates, deploy, monitoring — <b>one dev does it all</b>.
       </p>
       <p align="left"><sub>
-        <b>Aprendizaje:</b> La navaja suiza del developer. Cuando entregas el proyecto entero, aprendes cómo cada capa afecta a las demás.
+        <b>What I learned:</b> The swiss-army-knife developer. When you ship the whole project, you learn how each layer affects the others.
       </sub></p>
     </td>
   </tr>
@@ -167,29 +167,29 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">☕ Starbucks Rewards Perú</h3>
-      <p align="center"><sub><b>DELOSI · Ene 2024 – Actualidad</b></sub></p>
+      <p align="center"><sub><b>DELOSI · Jan 2024 – Present</b></sub></p>
       <p align="left">
-        <b>Rol:</b> Android Engineer · Backend Engineer<br/>
+        <b>Role:</b> Android Engineer · Backend Engineer<br/>
         <b>Stack:</b> Kotlin Multiplatform · Jetpack Compose · SwiftUI · Ktor · Clean Architecture · AWS (Cognito, Lambda, CDK)<br/>
-        <b>Logro:</b> App publicada en Google Play Store con integración PCI para pagos Niubiz. Hardening con R8 + DexGuard + Shape F5.
+        <b>Result:</b> App published on Google Play Store with PCI integration for Niubiz payments. Hardening with R8 + DexGuard + Shape F5.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🛡️ Cotizador vehicular 100X</h3>
-      <p align="center"><sub><b>Interseguro · Mar 2023 – Dic 2024</b></sub></p>
+      <h3 align="center">🛡️ Vehicle Quoter 100X</h3>
+      <p align="center"><sub><b>Interseguro · Mar 2023 – Dec 2024</b></sub></p>
       <p align="left">
-        <b>Rol:</b> Backend Engineer · Squad Nuevas Iniciativas / Vehicular<br/>
+        <b>Role:</b> Backend Engineer · Squad Nuevas Iniciativas / Vehicular<br/>
         <b>Stack:</b> Go (Fiber, GORM, Viper) · Java Spring Suite · GCP Cloud Run · OAuth2 + Keycloak<br/>
-        <b>Logro:</b> Migración Java → Go. Sistema pasó a absorber 100X más volumen que el resto de productos de la compañía.
+        <b>Result:</b> Java → Go migration. The system went on to absorb 100X more volume than the rest of the company's products.
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🚨 Workplace Safety</h3>
-      <p align="center"><sub><b>Kwema Inc · Ago 2021 – Feb 2024</b></sub></p>
+      <p align="center"><sub><b>Kwema Inc · Aug 2021 – Feb 2024</b></sub></p>
       <p align="left">
-        <b>Rol:</b> Software Engineer Android & Backend<br/>
+        <b>Role:</b> Software Engineer Android & Backend<br/>
         <b>Stack:</b> Kotlin · Jetpack Compose · Python Django · Firebase · AWS IoT · BLE Beacons<br/>
-        <b>Logro:</b> Reescritura completa de la app con wearables de pánico para alertas en tiempo real.
+        <b>Result:</b> Complete rewrite of the app with panic wearables for real-time alerts.
       </p>
     </td>
   </tr>
